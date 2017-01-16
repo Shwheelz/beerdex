@@ -1,0 +1,978 @@
+A Note Mat
+Ability Capsule
+Absorb Bulb
+Acro Bike
+Adamant Orb
+Adrenaline Orb
+Adventure Rules
+Aguav Berry
+Air Balloon
+Air Mail
+Alert Tool 1
+Alert Tool 2
+Alert Tool 3
+Alert Tool 4
+Aloraichium Z
+Amaze Mulch
+Amulet Coin
+Antidote
+Apicot Berry
+Apricorn Box
+Aqua Suit
+Armor Fossil
+Aspear Berry
+Assault Vest
+Attract Mat
+Aurora Ticket
+Awakening
+Azure Flute
+Azurill Doll
+B Note Mat
+Babiri Berry
+Ball Cushion
+Ball Ornament
+Ball Poster
+BalmMushroom
+Baltoy Doll
+Basement Key
+Bead Mail
+Beast Ball
+Beauty Cup
+Belue Berry
+Berry
+Berry Juice
+Berry Pots
+Berry Pouch
+Berserk Gene
+Bicycle
+Big Bookshelf
+Big Lapras
+Big Malasada
+Big Mushroom
+Big Nugget
+Big Oil Drum
+Big Onix
+Big Pearl
+Big Plant
+Big Root
+Big Smoke Tool
+Big Snorlax
+Big Table
+Bike Rack
+Bike Voucher
+Binding Band
+Binoculars
+Bitter Berry
+Black Belt
+Black Flute
+Black Glasses
+Black Sludge
+Blastoise Doll
+Blk Apricorn
+Bloom Mail
+Blu Apricorn
+Blue Balloon
+Blue Brick
+Blue Card
+Blue Carpet
+Blue Crystal
+Blue Cushion
+Blue Flute
+Blue Orb
+Blue Poster
+Blue Scarf
+Blue Shard
+Blue Tent
+BlueSky Mail
+Bluk Berry
+Bonsai
+Bonsly Doll
+Boost Mulch
+Bottle Cap
+Breakable Door
+Brick Chair
+Brick Desk
+Brick Mail
+Brick Piece
+BridgeMail D
+BridgeMail M
+BridgeMail S
+BridgeMail T
+BridgeMail V
+BrightPowder
+Bronze Trophy
+Bubble Mail
+Bubble Tool
+Bug Gem
+Bug Memory
+Buginium Z
+Buizel Doll
+Bulbasaur Doll
+Buneary Doll
+Burn Drive
+Burn Heal
+Burnt Berry
+C High Note Mat
+C Low Note Mat
+Calcium
+Camp Chair
+Camp Desk
+Carbos
+Card Key
+Cardboard Box
+Casteliacone
+Cell Battery
+Charcoal
+Charizard Doll
+Charmander Doll
+Charti Berry
+Chatot Doll
+Cheri Berry
+Cherish Ball
+Chesto Berry
+Chikorita Doll
+Chilan Berry
+Chill Drive
+Chimchar Doll
+Choice Band
+Choice Scarf
+Choice Specs
+Chople Berry
+Claw Fossil
+Cleanse Tag
+Clear Bell
+Clear Ornament
+Clear Tent
+Clefairy Doll
+Clefairy Poster
+Clever Cup
+Clever Wing
+Coba Berry
+Coin Case
+Colbur Berry
+Colorful Plant
+Colress Machine
+Comet Shard
+Comfort Chair
+Comfort Desk
+Common Stone
+Container
+Contest Costume
+Contest Pass
+Cool Cup
+Cornn Berry
+Coupon 1
+Coupon 2
+Coupon 3
+Cover Fossil
+Crate
+Cupboard
+Custap Berry
+Cute Cup
+Cute Poster
+Cute TV
+Cyndaquil Doll
+D Note Mat
+DNA Splicers
+Dainty Flowers
+Damp Mulch
+Damp Rock
+Dark Gem
+Dark Memory
+Dark Stone
+Darkinium Z
+Data Card 1
+Data Card 10
+Data Card 11
+Data Card 12
+Data Card 13
+Data Card 14
+Data Card 15
+Data Card 16
+Data Card 17
+Data Card 18
+Data Card 19
+Data Card 2
+Data Card 20
+Data Card 21
+Data Card 22
+Data Card 23
+Data Card 24
+Data Card 25
+Data Card 26
+Data Card 27
+Data Card 3
+Data Card 4
+Data Card 5
+Data Card 6
+Data Card 7
+Data Card 8
+Data Card 9
+Dawn Stone
+Decidium Z
+Deep Sea Scale
+Deep Sea Tooth
+Destiny Knot
+Devon Goods
+Devon Parts
+Devon Scope
+Devon Scuba Gear
+Diamond Cushion
+Diglett Doll
+Dire Hit
+Discount Coupon
+Display Shelf
+Ditto Doll
+Dive Ball
+Dome Fossil
+Douse Drive
+Dowsing Machine
+Draco Plate
+Dragon Fang
+Dragon Gem
+Dragon Memory
+Dragon Scale
+Dragon Skull
+Dragonium Z
+Dread Plate
+Dream Ball
+Dream Mail
+Drifloon Doll
+Dropped Item
+Dubious Disc
+Durin Berry
+Dusk Ball
+Dusk Stone
+Duskull Doll
+E Note Mat
+Experience All
+Earth Plate
+Eevium Z
+Egg Card
+Eject Button
+Electirizer
+Electric Gem
+Electric Memory
+Electric Seed
+Electrium Z
+Elevator Key
+Elixir
+Ember Tool
+Energy Root
+EnergyPowder
+Enigma Berry
+Enigma Stone
+Enigmatic Card
+Eon Flute
+Eon Mail
+Eon Ticket
+Escape Rope
+Ether
+Everstone
+Eviolite
+Exp. Share
+Expert Belt
+Explorer Kit
+F Note Mat
+Fab Mail
+Fairium Z
+Fairy Gem
+Fairy Memory
+Fame Checker
+Fashion Case
+Fast Ball
+Favored Mail
+Feathery Bed
+Fence Length
+Fence Width
+Festival Ticket
+Fighting Gem
+Fighting Memory
+Fightinium Z
+Figy Berry
+Fire Blast Mat
+Fire Cushion
+Fire Gem
+Fire Memory
+Fire Stone
+Fire Tool
+Firium Z
+Fishing Rod
+Fissure Mat
+Fist Plate
+Flame Mail
+Flame Orb
+Flame Plate
+Float Stone
+Flower Mail
+Flower Tool
+Fluffy Tail
+Flying Gem
+Flying Memory
+Flyinium Z
+Foam Tool
+Focus Band
+Focus Sash
+Forage Bag
+Fresh Water
+Friend Ball
+Full Heal
+Full Incense
+Full Restore
+G Note Mat
+GB Sounds
+GS Ball
+Galactic Key
+Game System
+Ganlon Berry
+Gengar Doll
+Genius Wing
+Geodude Doll
+Ghost Gem
+Ghost Memory
+Ghostium Z
+Glameow Doll
+Glass Ornament
+Glitter Gem
+Glitter Mail
+Glitter Mat
+Globe
+Go-Goggles
+God Stone
+Gold Berry
+Gold Bottle Cap
+Gold Leaf
+Gold Shield
+Gold Teeth
+Gold Trophy
+Good Rod
+Gooey Mulch
+Gorgeous Box
+Gorgeous Plant
+Gracidea
+Gram 1
+Gram 2
+Gram 3
+Grass Cushion
+Grass Gem
+Grass Mail
+Grass Memory
+Grassium Z
+Grassy Seed
+Great Ball
+Great Trophy
+Green Bike
+Green Carpet
+Green Poster
+Green Scarf
+Green Shard
+Greet Mail
+Grepa Berry
+Grimer Doll
+Grip Claw
+Griseous Orb
+Grn Apricorn
+Ground Gem
+Ground Memory
+Groundium Z
+Growth Mulch
+Grubby Hanky
+Guard Spec.
+Gulpin Doll
+Gym Statue
+H.P. Up
+Haban Berry
+Happiny Doll
+Harbor Mail
+Hard Chair
+Hard Desk
+Hard Stone
+Heal Ball
+Heal Powder
+Healing Machine
+Health Wing
+Heart Mail
+Heart Scale
+Heat Rock
+Heavy Ball
+Heavy Chair
+Heavy Desk
+Helix Fossil
+Hole Tool
+Holo Caster
+Hondew Berry
+Honey
+Honor of Kalos
+Hyper Potion
+Iapapa Berry
+Ice Berry
+Ice Gem
+Ice Heal
+Ice Memory
+Ice Stone
+Icicle Plate
+Icium Z
+Icy Rock
+Incinium Z
+Inquiry Mail
+Insect Plate
+Intriguing Stone
+Iron
+Iron Ball
+Iron Beam
+Iron Plate
+Itemfinder
+Jaboca Berry
+Jade Orb
+Jaw Fossil
+Jigglypuff Doll
+Jigglypuff Poster
+Journal
+Jumbo Plant
+Jump Mat
+Kasib Berry
+Kebia Berry
+Kecleon doll
+Kee Berry
+Kelpsy Berry
+Key Stone
+Key to Room 1
+Key to Room 2
+Key to Room 4
+Key to Room 6
+King's Rock
+Kiss Cushion
+Kiss Poster
+Lab Machine
+Lagging Tail
+Lansat Berry
+Lapras Doll
+Lava Cookie
+Lavish Flowers
+Lax Incense
+Leaf Stone
+Leaf Tool
+Leftovers
+Lemonade
+Lens Case
+Leppa Berry
+Letter
+Level Ball
+Liberty Pass
+Liechi Berry
+Life Orb
+Lift Key
+Light Ball
+Light Clay
+Light Stone
+Like Mail
+LiteBlue Mail
+Lock Capsule
+Long Poster
+Long Table
+Looker Ticket
+Loot Sack
+Lost Item
+Lotad Doll
+Love Ball
+Lovely Flowers
+Lovely Mail
+Lucario Doll
+Luck Incense
+Lucky Egg
+Lucky Punch
+Lum Berry
+Luminous Moss
+Lumiose Galette
+Lunar Wing
+Lure Ball
+Lustrous Orb
+Luxury Ball
+Mach Bike
+Machine Part
+Macho Brace
+Machop Doll
+Magikarp Doll
+Magma Emblem
+Magma Stone
+Magma Suit
+Magmarizer
+Magna Plant
+Magnet
+Magnezone Doll
+Mago Berry
+Magost Berry
+Make-up Bag
+Manaphy Doll
+Mantyke Doll
+Maranga Berry
+Marill Doll
+Marshadium Z
+Master Ball
+Max Elixir
+Max Ether
+Max Potion
+Max Repel
+Max Revive
+Maze Block 1
+Maze Block 2
+Maze Block 3
+Maze Block 4
+Maze Block 5
+Meadow Plate
+Mech Mail
+Medal Box
+Mega Bracelet
+Mega Ring
+Member Card
+Mental Herb
+Meowth Doll
+Metal Coat
+Metal Powder
+Meteorite
+Meteorite Shard
+Metronome
+Mewnium Z
+Micle Berry
+Mime Jr. Doll
+Mind Plate
+Mint Berry
+Minun Doll
+Miracle Seed
+MiracleBerry
+Mirage Mail
+Misty Seed
+Moomoo Milk
+Moon Ball
+Moon Flute
+Moon Stone
+Morph Mail
+Mosaic Mail
+Mud Ball
+Mudkip Doll
+Munchlax Doll
+Muscle Band
+Muscle Wing
+Music Mail
+Mystery Egg
+MysteryBerry
+Mystic Gem
+Mystic Water
+MysticTicket
+N.E.S.
+Nanab Berry
+Nest Ball
+Net Ball
+Never-Melt Ice
+Nintendo64
+Nomel Berry
+Normal Box
+Normal Gem
+Normalium Z
+Nugget
+Oak's Letter
+Oak's Parcel
+Occa Berry
+Odd Incense
+Odd Keystone
+Oddish Doll
+Oil Drum
+Old Amber
+Old Charm
+Old Gateau
+Old Rod
+Old Sea Map
+Oran Berry
+Orange Mail
+Oval Charm
+Oval Stone
+P.P. Max
+P.P. Up
+Pachirisu Doll
+Pair of Tickets
+Pal Pad
+Pamtre Berry
+Parcel
+Park Ball
+Parlyze Heal
+Pass
+Pass Orb
+Passho Berry
+Payapa Berry
+Pearl
+Pearl String
+Pecha Berry
+Permit
+Persim Berry
+Petaya Berry
+Photo Album
+Pichu Doll
+Pika Bed
+Pika Cushio
+Pika Poster
+Pikachu Doll
+Pikachu Poster
+Pikanium Z
+Pikashunium Z
+Pinap Berry
+Pink Bed
+Pink Bow
+Pink Crystal
+Pink Dresser
+Pink Nectar
+Pink Scarf
+Piplup Doll
+Pit Tool
+Pixie Plate
+Plain Table
+Plasma Card
+Plume Fossil
+Plusle Doll
+Pink Apricorn
+Poffin Case
+Point Card
+Poison Barb
+Poison Gem
+Poison Memory
+Poisonium Z
+Poké Ball
+Poké Doll
+Poké Flower
+Poké Radar
+Poké Table
+Poké Toy
+PokéBlock Case
+PokéBlock Kit
+Pokéflute
+Pokémon Chair
+Pokémon Desk
+Poliwag Doll
+Polkadot Bed
+Polkadot Bow
+Pomeg Berry
+Portrait Mail
+Potion
+Potted Plant
+Powder Jar
+Powder Snow Mat
+Power Anklet
+Power Band
+Power Belt
+Power Bracer
+Power Herb
+Power Lens
+Power Plant Pass
+Power Weight
+Premier Ball
+Pretty Chair
+Pretty Desk
+Pretty Flowers
+Pretty Gem
+Pretty Sink
+Pretty Wing
+Primarium Z
+Prism Scale
+Prison Bottle
+Prof's Letter
+Professor's Mask
+Prop Case
+Protective Pads
+Protector
+Protein
+Paralyze Cure Berry
+Poison Cure Berry
+Psychic Gem
+Psychic Memory
+Psychic Seed
+Psychium Z
+Pure Incense
+Purple Nectar
+Qualot Berry
+Quick Ball
+Quick Claw
+Quick Powder
+RSVP Mail
+Rabuta Berry
+Rage Candy Bar
+Ragged Chair
+Ragged Desk
+Rainbow Pass
+Rainbow Wing
+Rare Bone
+Rare Candy
+Rawst Berry
+Razor Claw
+Razor Fang
+Razz Berry
+Reaper Cloth
+Red Apricorn
+Red Balloon
+Red Bike
+Red Brick
+Red Card
+Red Carpet
+Red Chain
+Red Crystal
+Red Flute
+Red Nectar
+Red Orb
+Red Plant
+Red Poster
+Red Scale
+Red Scarf
+Red Shard
+Red Tent
+Refrigerator
+Regice Doll
+Regirock Doll
+Registeel Doll
+Relic Band
+Relic Copper
+Relic Crown
+Relic Gold
+Relic Silver
+Relic Statue
+Relic Vase
+Repeat Ball
+Repel
+Reply Mail
+Research Shelf
+Resist Wing
+Retro Mail
+Reveal Glass
+Revival Herb
+Revive
+Rhydon Doll
+Rich Mulch
+Ride Pager
+Rindo Berry
+Ring Target
+Room 1 Key
+Room 2 Key
+Room 4 Key
+Room 6 Key
+Rock Gem
+Rock Incense
+Rock Memory
+Rock Tool
+Rockfall Tool
+Rockium Z
+Rocky Helmet
+Roller Skates
+Root Fossil
+Rose Incense
+Roseli Berry
+Round Cushion
+Round Ornament
+Round TV
+Rowap Berry
+Ruby
+Rule Book
+S.S. Ticket
+Sachet
+Sacred Ash
+Safari Ball
+Safety Goggles
+Sail Fossil
+Salac Berry
+Sand Ornament
+Sapphire
+Scanner
+Scope Lens
+Sea Incense
+Sea Poster
+Seal Bag
+Seal Case
+Secret Key
+SecretPotion
+Seedot Doll
+Shadow Mail
+Shalour Sable
+Sharp Beak
+Shed Shell
+Shell Bell
+Shellder Doll
+Shiny Charm
+Shiny Gem
+Shiny Stone
+Shoal Salt
+Shoal Shell
+Shock Drive
+Shop Shelf
+Shuca Berry
+Silk Scarf
+Silph Scope
+Silver Leaf
+Silver Shield
+Silver Trophy
+Silver Wing
+SilverPowder
+Sitrus Berry
+Skitty Doll
+Skull Fossil
+Sky Plate
+Sky Poster
+Slide
+Slowpoketail
+Small Bookshelf
+Small Chair
+Small Desk
+Small Table
+Smoke Ball
+Smoke Tool
+Smoochum Doll
+Smooth Rock
+Snorlax Doll
+Snorlium Z
+Snow Mail
+Snowball
+Soda Pop
+Soft Sand
+Solid Board
+Soot Sack
+Soothe Bell
+Soul Dew
+Space Mail
+Sparkling Stone
+Spell Tag
+Spelon Berry
+Spikes Mat
+Spin Cushion
+Spin Mat
+Splash Plate
+Spooky Plate
+Sport Ball
+Sprayduck
+Sprinklotad
+Squirtbottle
+Squirtle Doll
+Stable Mulch
+Stand
+Star Piece
+Stardust
+Starf Berry
+Staryu Doll
+Steel Gem
+Steel Mail
+Steel Memory
+Steelium Z
+Stick
+Sticky Barb
+Stone Plate
+Storage Key
+Strange Souvenir
+Suite Key
+Sun Flute
+Sun Stone
+Super NES
+Super Potion
+Super Repel
+Super Rod
+Surf Mail
+Surf Mat
+Surf Pikachu Doll
+Surprise Mulch
+Swablu Doll
+Sweet Heart
+Swift Wing
+TM Case
+TMV Pass
+TV
+Tamato Berry
+Tanga Berry
+Tapunium Z
+Tea
+Teachy TV
+Tentacruel Doll
+Terrain Extender
+Test Machine
+Thanks Mail
+Thick Club
+Thunder Mat
+Thunderstone
+Tidal Bell
+Timer Ball
+TinyMushroom
+Tire
+Togepi Doll
+Torchic Doll
+Totodile Doll
+Tough Cup
+Town Map
+Toxic Orb
+Toxic Plate
+Trash Can
+Travel Trunk
+Treecko Doll
+Tri Pass
+Tropic Mail
+Tropic Plant
+Tropical Plant
+Tunnel Mail
+Turtwig Doll
+TwistedSpoon
+Ultra Ball
+Unown Doll
+Unown Report
+Up-Grade
+Vending Machine
+Venusaur Doll
+Virtual Boy
+Voltorb Doll
+Versus Recorder
+Versus Seeker
+Wacan Berry
+Wailmer Doll
+Wailmer Pail
+Wailord Doll
+Water Cushion
+Water Gem
+Water Memory
+Water Stone
+Waterium Z
+Watmel Berry
+Wave Incense
+Wave Mail
+Weakness Policy
+Weavile Doll
+Weedle Doll
+Wepear Berry
+Whipped Dream
+White Flute
+White Herb
+Wht Apricorn
+Wide Lens
+Wide Sofa
+Wide Table
+Wiki Berry
+Wise Glasses
+Wobbuffet Doll
+Wood Dresser
+Wood Mail
+Wooden Chair
+Works Key
+Wynaut Doll
+X Accuracy
+X Attack
+X Defense
+X Special Attack
+X Special Defense
+X Speed
+X Transceiver
+Yache Berry
+Yellow Balloon
+Yellow Brick
+Yellow Carpet
+Yellow Crystal
+Yellow Cushion
+Yellow Flute
+Yellow Nectar
+Yellow Scarf
+Yellow Shard
+Yellow Apricorn
+Z-Ring
+Zap Plate
+ZigZag Cushion
+Zinc
+Zoom Lens
+Zygarde Cube
