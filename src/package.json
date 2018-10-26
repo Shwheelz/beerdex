@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/shwheelz/beerdex/issues"
   },
-  "homepage": "https://github.com/shwheelz/beerdex#readme",
+  "homepage": "https://github.com/Shwheelz/beerdex/blob/master/README.md",
   "dependencies": {
     "alexa-sdk": "^1.0.6"
   }
