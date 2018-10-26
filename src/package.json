@@ -1,26 +1,29 @@
 {
-  "name": "skill-sample-nodejs-howto-i18n",
+  "name": "beer-dex",
   "version": "1.0.0",
-  "description": "How-to skill sample i18n version",
+  "description": "Beer Dex Alexa Skill",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexa/skill-sample-nodejs-howto.git"
+    "url": "https://github.com/shwheelz/beerdex"
   },
   "keywords": [
     "Alexa",
     "skill",
-    "howto"
+    "howto",
+    "beer",
+    "dex",
+    "beerdex"
   ],
-  "author": "Amazon.com",
+  "author": "Shane Besong",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/alexa/skill-sample-nodejs-howto/issues"
+    "url": "https://github.com/shwheelz/beerdex/issues"
   },
-  "homepage": "https://github.com/alexa/skill-sample-nodejs-howto#readme",
+  "homepage": "https://github.com/shwheelz/beerdex#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.6"
   }

@@ -1,8 +1,8 @@
 'use strict';
 
 var Alexa = require('alexa-sdk');
-var APP_ID = "amzn1.ask.skill.98813fb5-42a4-461f-837e-8a4bf4b01759";
-var items = require('./items');
+var APP_ID = "amzn1.ask.skill.29a71dff-d39a-4176-bbea-03900647618f";
+var beers = require('./beers');
 
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context);
@@ -20,27 +20,27 @@ var handlers = {
         this.attributes['repromptSpeech'] = this.t("WELCOME_REPROMT");
         this.emit(':ask', this.attributes['speechOutput'], this.attributes['repromptSpeech'])
     },
-    'ItemIntent': function () {
-        var itemSlot = this.event.request.intent.slots.item;
-        var itemName;
-        if (itemSlot && itemSlot.value) {
-            itemName = itemSlot.value.toLowerCase();
+    'GetBeerIntent': function () {
+        var beerSlot = this.event.request.intent.slots.beer;
+        var beerName;
+        if (beerSlot && beerSlot.value) {
+            beerName = beerSlot.value.toLowerCase();
         }
 
-        var cardTitle = this.t("DISPLAY_CARD_TITLE", this.t("SKILL_NAME"), itemName);
-        var items = this.t("ITEMS");
-        var item = items[itemName];
+        var cardTitle = this.t("DISPLAY_CARD_TITLE", this.t("SKILL_NAME"), beerName);
+        var beers = this.t("BEERS");
+        var beer = beers[beerName];
 
-        if (item) {
-            this.attributes['speechOutput'] = item;
-            this.emit(':tellWithCard', this.attributes['speechOutput'], cardTitle, item);
+        if (beer) {
+            this.attributes['speechOutput'] = beer;
+            this.emit(':tellWithCard', this.attributes['speechOutput'], cardTitle, beer);
         } else {
-            var speechOutput = this.t("ITEM_NOT_FOUND_MESSAGE");
-            var repromptSpeech = this.t("ITEM_NOT_FOUND_REPROMPT");
-            if (itemName) {
-                speechOutput += this.t("ITEM_NOT_FOUND_WITH_ITEM_NAME", itemName);
+            var speechOutput = this.t("BEER_NOT_FOUND_MESSAGE");
+            var repromptSpeech = this.t("BEER_NOT_FOUND_REPROMPT");
+            if (beerName) {
+                speechOutput += this.t("BEER_NOT_FOUND_WITH_BEER_NAME", beerName);
             } else {
-                speechOutput += this.t("ITEM_NOT_FOUND_WITHOUT_ITEM_NAME");
+                speechOutput += this.t("BEER_NOT_FOUND_WITHOUT_BEER_NAME");
             }
             speechOutput += repromptSpeech;
 
@@ -72,19 +72,19 @@ var handlers = {
 var languageStrings = {
     "en-US": {
         "translation": {
-            "ITEMS" : items.items,
-            "SKILL_NAME" : "Item Dex",
-            "WELCOME_MESSAGE": "Welcome to %s. You can ask a question like, what\'s a hyper potion? ... Now, what can I help you with.",
+            "BEERS" : beers.beers,
+            "SKILL_NAME" : "Beer Dex",
+            "WELCOME_MESSAGE": "Welcome to %s. You can ask a question like, what\'s a wheat beer? ... Now, what can I help you with.",
             "WELCOME_REPROMT": "For instructions on what you can say, please say help me.",
             "DISPLAY_CARD_TITLE": "%s  -  %s.",
-            "HELP_MESSAGE": "You can ask for the description of an item by saying, what\'s a max revive, or, you can say exit...Now, what can I help you with?",
-            "HELP_REPROMT": "You also ask for more rare items, for example, say, what\'s a power anklet, or you can say exit...Now, what can I help you with?",
+            "HELP_MESSAGE": "You can ask for the description of a beer by saying, what\'s a wheat beer, or, you can say exit...Now, what can I help you with?",
+            "HELP_REPROMT": "You also ask for different styles of beers, for example, say, what\'s a cream beer, or you can say exit...Now, what can I help you with?",
             "STOP_MESSAGE": "Goodbye!",
-            "ITEM_REPEAT_MESSAGE": "Try saying repeat.",
-            "ITEM_NOT_FOUND_MESSAGE": "I\'m sorry, I currently do not know ",
-            "ITEM_NOT_FOUND_WITH_ITEM_NAME": "the item %s. ",
-            "ITEM_NOT_FOUND_WITHOUT_ITEM_NAME": "that item. ",
-            "ITEM_NOT_FOUND_REPROMPT": "What else can I help with?"
+            "BEER_REPEAT_MESSAGE": "Try saying repeat.",
+            "BEER_NOT_FOUND_MESSAGE": "I\'m sorry, I currently do not know ",
+            "BEER_NOT_FOUND_WITH_BEER_NAME": "the beer %s. ",
+            "BEER_NOT_FOUND_WITHOUT_BEER_NAME": "that beer. ",
+            "BEER_NOT_FOUND_REPROMPT": "What else can I help with?"
         }
     }
 };
